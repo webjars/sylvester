@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>sylvester</artifactId>
-    <version>0.1.3</version>
+    <version>0.1.4-SNAPSHOT</version>
     <name>Sylvester</name>
     <description>WebJar for Sylvester</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/sylvester</url>
         <connection>scm:git:https://github.com/webjars/sylvester.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/sylvester.git</developerConnection>
-        <tag>sylvester-0.1.3</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
